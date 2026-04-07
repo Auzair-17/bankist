@@ -21,7 +21,7 @@ https://auzair-17.github.io/bankist/
 ## Screenshots
 
 ![login](./screenshots/login.png)
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/Home.png)
 
 ---
 
